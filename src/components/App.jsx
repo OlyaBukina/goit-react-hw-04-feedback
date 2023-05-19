@@ -26,7 +26,6 @@ export function App() {
         break;
 
       default:
-        break;
     }
   };
 
